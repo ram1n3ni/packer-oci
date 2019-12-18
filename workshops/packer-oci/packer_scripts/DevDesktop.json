@@ -1,8 +1,8 @@
     { 
       "my.user_ocid":"ocid1.user.oc1..aaaaaaaark7jfffguod2hua2lqw3eprttx5ggvesrhudewxfplfbpmnr3b4q",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaa7vsvxlhl4tvynvg7vqxhd3v67rpr7ox6ibyhwd67z4sbbc2nq2nq",
       "my.fingerprint":"5e:ca:8a:7b:c1:1c:6e:f1:0a:2c:77:9c:23:44:a2:06",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
+      "my.availability_domain": "VHCA:US-ASHBURN-AD-1",
       "my.region": "us-ashburn-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaiumj3uxs5hnka7r76zov44qnzncdetz6xwlk5tfhgpnuvezgq3ga",
       "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaa7rbuvjo64qpqs7mtgexu3lk2cfhbau4fttyswlbdws4jrnmtsvba",
